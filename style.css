@@ -200,9 +200,11 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(./img/rita-photoaidcom-2x-ai-zoom.jpeg);
 	background-size: cover;
-	background-position: top center;
+	width: auto;
+	background-repeat: no-repeat;
+	background-position: left;
 	position: relative;
 	z-index: 1;
 }
